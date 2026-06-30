@@ -123,4 +123,8 @@
 |  |
 | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Database
+|  |
+| ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adityatejash/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
