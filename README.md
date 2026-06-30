@@ -19,6 +19,7 @@
 | [1972-rotating-the-box](https://github.com/adityatejash/LeetCode/tree/master/1972-rotating-the-box) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/adityatejash/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/adityatejash/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adityatejash/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3899-angles-of-a-triangle](https://github.com/adityatejash/LeetCode/tree/master/3899-angles-of-a-triangle) |
@@ -100,4 +101,20 @@
 |  |
 | ------- |
 | [3899-angles-of-a-triangle](https://github.com/adityatejash/LeetCode/tree/master/3899-angles-of-a-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
