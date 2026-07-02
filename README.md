@@ -30,6 +30,7 @@
 | [17-letter-combinations-of-a-phone-number](https://github.com/adityatejash/LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [165-compare-version-numbers](https://github.com/adityatejash/LeetCode/tree/master/165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [874-backspace-string-compare](https://github.com/adityatejash/LeetCode/tree/master/874-backspace-string-compare) |
 | [1297-maximum-number-of-balloons](https://github.com/adityatejash/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -92,6 +93,7 @@
 | [168-excel-sheet-column-title](https://github.com/adityatejash/LeetCode/tree/master/168-excel-sheet-column-title) |
 | [172-factorial-trailing-zeroes](https://github.com/adityatejash/LeetCode/tree/master/172-factorial-trailing-zeroes) |
 | [343-integer-break](https://github.com/adityatejash/LeetCode/tree/master/343-integer-break) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [476-number-complement](https://github.com/adityatejash/LeetCode/tree/master/476-number-complement) |
 | [693-binary-number-with-alternating-bits](https://github.com/adityatejash/LeetCode/tree/master/693-binary-number-with-alternating-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/adityatejash/LeetCode/tree/master/1054-complement-of-base-10-integer) |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
