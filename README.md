@@ -5,6 +5,7 @@
 | ------- |
 | [75-sort-colors](https://github.com/adityatejash/LeetCode/tree/master/75-sort-colors) |
 | [164-maximum-gap](https://github.com/adityatejash/LeetCode/tree/master/164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
 | [448-find-all-numbers-disappeared-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/448-find-all-numbers-disappeared-in-an-array) |
 | [645-set-mismatch](https://github.com/adityatejash/LeetCode/tree/master/645-set-mismatch) |
@@ -109,6 +110,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 ## Binary Search
@@ -122,6 +124,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -135,6 +138,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
 |  |
