@@ -18,6 +18,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/adityatejash/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityatejash/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1972-rotating-the-box](https://github.com/adityatejash/LeetCode/tree/master/1972-rotating-the-box) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/adityatejash/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -128,11 +129,13 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Database
 |  |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
