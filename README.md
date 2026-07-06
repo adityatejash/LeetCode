@@ -100,6 +100,7 @@
 | [343-integer-break](https://github.com/adityatejash/LeetCode/tree/master/343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [476-number-complement](https://github.com/adityatejash/LeetCode/tree/master/476-number-complement) |
+| [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [693-binary-number-with-alternating-bits](https://github.com/adityatejash/LeetCode/tree/master/693-binary-number-with-alternating-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/adityatejash/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityatejash/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -125,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
@@ -165,4 +167,12 @@
 |  |
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
