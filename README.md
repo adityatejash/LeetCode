@@ -122,6 +122,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/adityatejash/LeetCode/tree/master/0278-first-bad-version) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/adityatejash/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
