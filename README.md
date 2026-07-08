@@ -107,6 +107,7 @@
 | [1446-angle-between-hands-of-a-clock](https://github.com/adityatejash/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/adityatejash/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityatejash/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3899-angles-of-a-triangle](https://github.com/adityatejash/LeetCode/tree/master/3899-angles-of-a-triangle) |
 ## Geometry
 |  |
