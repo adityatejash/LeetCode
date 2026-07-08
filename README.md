@@ -44,6 +44,7 @@
 | [2197-decode-the-slanted-ciphertext](https://github.com/adityatejash/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2470-removing-stars-from-a-string](https://github.com/adityatejash/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4177-reverse-string-prefix](https://github.com/adityatejash/LeetCode/tree/master/4177-reverse-string-prefix) |
 ## Linked List
 |  |
@@ -108,6 +109,7 @@
 | [2541-sum-of-number-and-its-reverse](https://github.com/adityatejash/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityatejash/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3899-angles-of-a-triangle](https://github.com/adityatejash/LeetCode/tree/master/3899-angles-of-a-triangle) |
 ## Geometry
 |  |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/adityatejash/LeetCode/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
