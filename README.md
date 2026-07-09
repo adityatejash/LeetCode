@@ -39,6 +39,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [874-backspace-string-compare](https://github.com/adityatejash/LeetCode/tree/master/874-backspace-string-compare) |
 | [1297-maximum-number-of-balloons](https://github.com/adityatejash/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityatejash/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityatejash/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/adityatejash/LeetCode/tree/master/2128-reverse-prefix-of-word) |
