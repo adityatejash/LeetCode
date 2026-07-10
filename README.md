@@ -5,6 +5,7 @@
 | ------- |
 | [75-sort-colors](https://github.com/adityatejash/LeetCode/tree/master/75-sort-colors) |
 | [164-maximum-gap](https://github.com/adityatejash/LeetCode/tree/master/164-maximum-gap) |
+| [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
 | [448-find-all-numbers-disappeared-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/448-find-all-numbers-disappeared-in-an-array) |
@@ -120,6 +121,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityatejash/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
