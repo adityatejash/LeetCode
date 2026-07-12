@@ -14,6 +14,7 @@
 | [1200-minimum-absolute-difference](https://github.com/adityatejash/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/adityatejash/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/adityatejash/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityatejash/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adityatejash/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -126,6 +127,7 @@
 | [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
+| [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityatejash/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/adityatejash/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
