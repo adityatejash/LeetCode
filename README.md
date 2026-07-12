@@ -31,6 +31,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3379-transformed-array](https://github.com/adityatejash/LeetCode/tree/master/3379-transformed-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityatejash/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3899-angles-of-a-triangle](https://github.com/adityatejash/LeetCode/tree/master/3899-angles-of-a-triangle) |
 ## String
 |  |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/adityatejash/LeetCode/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
