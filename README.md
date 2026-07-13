@@ -185,6 +185,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/adityatejash/LeetCode/tree/master/1291-sequential-digits) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
 ## Greedy
 |  |
