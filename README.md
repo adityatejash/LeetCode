@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [113-path-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/113-path-sum-ii) |
+| [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityatejash/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/adityatejash/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityatejash/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -227,4 +228,12 @@
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
