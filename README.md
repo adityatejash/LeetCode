@@ -145,6 +145,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Simulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Recursion
 |  |
 | ------- |
