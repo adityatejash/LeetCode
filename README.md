@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityatejash/LeetCode/tree/master/0001-two-sum) |
 | [75-sort-colors](https://github.com/adityatejash/LeetCode/tree/master/75-sort-colors) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityatejash/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [164-maximum-gap](https://github.com/adityatejash/LeetCode/tree/master/164-maximum-gap) |
@@ -128,6 +129,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityatejash/LeetCode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
