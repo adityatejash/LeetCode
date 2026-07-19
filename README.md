@@ -9,6 +9,7 @@
 | [164-maximum-gap](https://github.com/adityatejash/LeetCode/tree/master/164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/adityatejash/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
 | [448-find-all-numbers-disappeared-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/448-find-all-numbers-disappeared-in-an-array) |
 | [645-set-mismatch](https://github.com/adityatejash/LeetCode/tree/master/645-set-mismatch) |
@@ -223,6 +224,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adityatejash/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
