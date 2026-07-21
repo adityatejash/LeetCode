@@ -121,6 +121,7 @@
 | [1054-complement-of-base-10-integer](https://github.com/adityatejash/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityatejash/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/adityatejash/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1492-the-kth-factor-of-n](https://github.com/adityatejash/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatejash/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/adityatejash/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/adityatejash/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -256,6 +257,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/adityatejash/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatejash/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityatejash/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
