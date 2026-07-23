@@ -36,6 +36,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/adityatejash/LeetCode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/adityatejash/LeetCode/tree/master/3379-transformed-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityatejash/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -126,6 +127,7 @@
 | [2469-convert-the-temperature](https://github.com/adityatejash/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/adityatejash/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityatejash/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityatejash/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -195,6 +197,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
 | ------- |
