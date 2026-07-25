@@ -129,6 +129,7 @@
 | [2541-sum-of-number-and-its-reverse](https://github.com/adityatejash/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/adityatejash/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityatejash/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityatejash/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -174,6 +175,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/adityatejash/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
