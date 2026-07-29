@@ -14,6 +14,7 @@
 | [448-find-all-numbers-disappeared-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/448-find-all-numbers-disappeared-in-an-array) |
 | [645-set-mismatch](https://github.com/adityatejash/LeetCode/tree/master/645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityatejash/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1200-minimum-absolute-difference](https://github.com/adityatejash/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/adityatejash/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/adityatejash/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +123,7 @@
 | [476-number-complement](https://github.com/adityatejash/LeetCode/tree/master/476-number-complement) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [693-binary-number-with-alternating-bits](https://github.com/adityatejash/LeetCode/tree/master/693-binary-number-with-alternating-bits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1054-complement-of-base-10-integer](https://github.com/adityatejash/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityatejash/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/adityatejash/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -149,6 +151,7 @@
 | [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/adityatejash/LeetCode/tree/master/2325-decode-the-message) |
@@ -197,6 +200,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
@@ -268,6 +272,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1492-the-kth-factor-of-n](https://github.com/adityatejash/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatejash/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityatejash/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
