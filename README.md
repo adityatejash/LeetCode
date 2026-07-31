@@ -63,6 +63,7 @@
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2470-removing-stars-from-a-string](https://github.com/adityatejash/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityatejash/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityatejash/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityatejash/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4177-reverse-string-prefix](https://github.com/adityatejash/LeetCode/tree/master/4177-reverse-string-prefix) |
@@ -160,6 +161,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/adityatejash/LeetCode/tree/master/2325-decode-the-message) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityatejash/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityatejash/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -184,6 +186,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityatejash/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityatejash/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityatejash/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -207,6 +210,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityatejash/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,6 +236,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityatejash/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityatejash/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
 | ------- |
