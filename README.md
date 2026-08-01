@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/adityatejash/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
 | [448-find-all-numbers-disappeared-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [645-set-mismatch](https://github.com/adityatejash/LeetCode/tree/master/645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityatejash/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -123,6 +124,7 @@
 | [343-integer-break](https://github.com/adityatejash/LeetCode/tree/master/343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [476-number-complement](https://github.com/adityatejash/LeetCode/tree/master/476-number-complement) |
+| [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [693-binary-number-with-alternating-bits](https://github.com/adityatejash/LeetCode/tree/master/693-binary-number-with-alternating-bits) |
 | [0836-rectangle-overlap](https://github.com/adityatejash/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -173,6 +175,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -240,6 +243,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -307,4 +311,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityatejash/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
