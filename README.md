@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityatejash/LeetCode/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/adityatejash/LeetCode/tree/master/0064-minimum-path-sum) |
 | [75-sort-colors](https://github.com/adityatejash/LeetCode/tree/master/75-sort-colors) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityatejash/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [164-maximum-gap](https://github.com/adityatejash/LeetCode/tree/master/164-maximum-gap) |
@@ -180,6 +181,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/adityatejash/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/adityatejash/LeetCode/tree/master/0877-stone-game) |
@@ -309,6 +311,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/adityatejash/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/adityatejash/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Heap (Priority Queue)
 |  |
