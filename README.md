@@ -127,6 +127,7 @@
 | [343-integer-break](https://github.com/adityatejash/LeetCode/tree/master/343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [476-number-complement](https://github.com/adityatejash/LeetCode/tree/master/476-number-complement) |
+| [0479-largest-palindrome-product](https://github.com/adityatejash/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [693-binary-number-with-alternating-bits](https://github.com/adityatejash/LeetCode/tree/master/693-binary-number-with-alternating-bits) |
@@ -240,6 +241,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/adityatejash/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/adityatejash/LeetCode/tree/master/1291-sequential-digits) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
 ## Greedy
