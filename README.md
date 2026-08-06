@@ -144,6 +144,7 @@
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityatejash/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/adityatejash/LeetCode/tree/master/3270-find-the-key-of-the-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adityatejash/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityatejash/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityatejash/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -244,6 +245,7 @@
 | [0479-largest-palindrome-product](https://github.com/adityatejash/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/adityatejash/LeetCode/tree/master/1291-sequential-digits) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adityatejash/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
