@@ -27,6 +27,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityatejash/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adityatejash/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1734-decode-xored-permutation](https://github.com/adityatejash/LeetCode/tree/master/1734-decode-xored-permutation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityatejash/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityatejash/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityatejash/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1734-decode-xored-permutation](https://github.com/adityatejash/LeetCode/tree/master/1734-decode-xored-permutation) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
