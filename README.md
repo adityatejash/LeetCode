@@ -48,6 +48,7 @@
 | [3731-find-missing-elements](https://github.com/adityatejash/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3899-angles-of-a-triangle](https://github.com/adityatejash/LeetCode/tree/master/3899-angles-of-a-triangle) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adityatejash/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adityatejash/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Database
 |  |
 | ------- |
