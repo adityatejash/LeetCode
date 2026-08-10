@@ -127,6 +127,7 @@
 | ------- |
 | [168-excel-sheet-column-title](https://github.com/adityatejash/LeetCode/tree/master/168-excel-sheet-column-title) |
 | [172-factorial-trailing-zeroes](https://github.com/adityatejash/LeetCode/tree/master/172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/adityatejash/LeetCode/tree/master/0263-ugly-number) |
 | [343-integer-break](https://github.com/adityatejash/LeetCode/tree/master/343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [476-number-complement](https://github.com/adityatejash/LeetCode/tree/master/476-number-complement) |
