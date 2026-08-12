@@ -37,6 +37,7 @@
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/adityatejash/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/adityatejash/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/adityatejash/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityatejash/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityatejash/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -188,6 +189,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityatejash/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/adityatejash/LeetCode/tree/master/0278-first-bad-version) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/adityatejash/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityatejash/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -208,6 +210,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/adityatejash/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/adityatejash/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityatejash/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityatejash/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -220,6 +223,7 @@
 |  |
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/adityatejash/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adityatejash/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
