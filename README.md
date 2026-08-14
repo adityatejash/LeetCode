@@ -133,6 +133,7 @@
 | [168-excel-sheet-column-title](https://github.com/adityatejash/LeetCode/tree/master/168-excel-sheet-column-title) |
 | [172-factorial-trailing-zeroes](https://github.com/adityatejash/LeetCode/tree/master/172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/adityatejash/LeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/adityatejash/LeetCode/tree/master/0292-nim-game) |
 | [343-integer-break](https://github.com/adityatejash/LeetCode/tree/master/343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [476-number-complement](https://github.com/adityatejash/LeetCode/tree/master/476-number-complement) |
@@ -349,6 +350,23 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityatejash/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityatejash/LeetCode/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityatejash/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityatejash/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityatejash/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityatejash/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
