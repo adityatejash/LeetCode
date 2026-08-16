@@ -79,6 +79,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityatejash/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityatejash/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3853-merge-close-characters](https://github.com/adityatejash/LeetCode/tree/master/3853-merge-close-characters) |
 | [4177-reverse-string-prefix](https://github.com/adityatejash/LeetCode/tree/master/4177-reverse-string-prefix) |
 ## Linked List
 |  |
@@ -187,6 +188,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityatejash/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityatejash/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/adityatejash/LeetCode/tree/master/3731-find-missing-elements) |
+| [3853-merge-close-characters](https://github.com/adityatejash/LeetCode/tree/master/3853-merge-close-characters) |
 ## Binary Search
 |  |
 | ------- |
