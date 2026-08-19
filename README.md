@@ -24,6 +24,7 @@
 | [1306-minimum-absolute-difference](https://github.com/adityatejash/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityatejash/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adityatejash/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -182,6 +183,7 @@
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/adityatejash/LeetCode/tree/master/2325-decode-the-message) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -257,6 +259,7 @@
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1734-decode-xored-permutation](https://github.com/adityatejash/LeetCode/tree/master/1734-decode-xored-permutation) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -278,6 +281,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
