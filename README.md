@@ -71,6 +71,7 @@
 | [874-backspace-string-compare](https://github.com/adityatejash/LeetCode/tree/master/874-backspace-string-compare) |
 | [1297-maximum-number-of-balloons](https://github.com/adityatejash/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityatejash/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityatejash/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/adityatejash/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -156,6 +157,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityatejash/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/adityatejash/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/adityatejash/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatejash/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/adityatejash/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -374,6 +377,7 @@
 | [0292-nim-game](https://github.com/adityatejash/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityatejash/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
 ## Brainteaser
 |  |
