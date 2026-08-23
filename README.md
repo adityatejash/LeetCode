@@ -35,6 +35,7 @@
 | [1972-rotating-the-box](https://github.com/adityatejash/LeetCode/tree/master/1972-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatejash/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
+| [2408-design-sql](https://github.com/adityatejash/LeetCode/tree/master/2408-design-sql) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/adityatejash/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -75,6 +76,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/adityatejash/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/adityatejash/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2325-decode-the-message](https://github.com/adityatejash/LeetCode/tree/master/2325-decode-the-message) |
+| [2408-design-sql](https://github.com/adityatejash/LeetCode/tree/master/2408-design-sql) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2470-removing-stars-from-a-string](https://github.com/adityatejash/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/adityatejash/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -188,6 +190,7 @@
 | [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/adityatejash/LeetCode/tree/master/2325-decode-the-message) |
+| [2408-design-sql](https://github.com/adityatejash/LeetCode/tree/master/2408-design-sql) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityatejash/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityatejash/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -347,6 +350,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/adityatejash/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [2408-design-sql](https://github.com/adityatejash/LeetCode/tree/master/2408-design-sql) |
 ## Trie
 |  |
 | ------- |
