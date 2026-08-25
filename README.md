@@ -14,6 +14,7 @@
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
 | [448-find-all-numbers-disappeared-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityatejash/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [645-set-mismatch](https://github.com/adityatejash/LeetCode/tree/master/645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityatejash/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -139,6 +140,7 @@
 | [90-subsets-ii](https://github.com/adityatejash/LeetCode/tree/master/90-subsets-ii) |
 | [113-path-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/113-path-sum-ii) |
 | [131-palindrome-partitioning](https://github.com/adityatejash/LeetCode/tree/master/131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/adityatejash/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/adityatejash/LeetCode/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
@@ -413,4 +416,12 @@
 | ------- |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
