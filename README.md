@@ -44,6 +44,7 @@
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/adityatejash/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityatejash/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/adityatejash/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/adityatejash/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityatejash/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -86,6 +87,7 @@
 | [2408-design-sql](https://github.com/adityatejash/LeetCode/tree/master/2408-design-sql) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2470-removing-stars-from-a-string](https://github.com/adityatejash/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityatejash/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/adityatejash/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityatejash/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityatejash/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
