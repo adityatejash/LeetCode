@@ -109,6 +109,7 @@
 | [206-reverse-linked-list](https://github.com/adityatejash/LeetCode/tree/master/206-reverse-linked-list) |
 | [237-delete-node-in-a-linked-list](https://github.com/adityatejash/LeetCode/tree/master/237-delete-node-in-a-linked-list) |
 | [328-odd-even-linked-list](https://github.com/adityatejash/LeetCode/tree/master/328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/adityatejash/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/adityatejash/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/adityatejash/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adityatejash/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
