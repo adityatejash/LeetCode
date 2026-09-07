@@ -83,6 +83,7 @@
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [874-backspace-string-compare](https://github.com/adityatejash/LeetCode/tree/master/874-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/adityatejash/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1138-alphabet-board-path](https://github.com/adityatejash/LeetCode/tree/master/1138-alphabet-board-path) |
 | [1297-maximum-number-of-balloons](https://github.com/adityatejash/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityatejash/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -249,6 +250,7 @@
 | [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/adityatejash/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/adityatejash/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
