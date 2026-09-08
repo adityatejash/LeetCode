@@ -247,6 +247,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/adityatejash/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/adityatejash/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0397-integer-replacement](https://github.com/adityatejash/LeetCode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
@@ -302,6 +303,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/adityatejash/LeetCode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -329,6 +331,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/adityatejash/LeetCode/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
@@ -345,6 +348,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/adityatejash/LeetCode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
