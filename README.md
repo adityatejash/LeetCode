@@ -128,6 +128,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityatejash/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/adityatejash/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityatejash/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityatejash/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
@@ -387,10 +388,12 @@
 |  |
 | ------- |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityatejash/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityatejash/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
 |  |
 | ------- |
