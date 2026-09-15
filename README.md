@@ -81,6 +81,7 @@
 | [0115-distinct-subsequences](https://github.com/adityatejash/LeetCode/tree/master/0115-distinct-subsequences) |
 | [165-compare-version-numbers](https://github.com/adityatejash/LeetCode/tree/master/165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/adityatejash/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0257-binary-tree-paths](https://github.com/adityatejash/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [113-path-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/adityatejash/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/adityatejash/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/adityatejash/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
@@ -160,6 +162,7 @@
 | [90-subsets-ii](https://github.com/adityatejash/LeetCode/tree/master/90-subsets-ii) |
 | [113-path-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/113-path-sum-ii) |
 | [131-palindrome-partitioning](https://github.com/adityatejash/LeetCode/tree/master/131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/adityatejash/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
 ## Math
 |  |
@@ -395,11 +398,13 @@
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/adityatejash/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityatejash/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/adityatejash/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityatejash/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
