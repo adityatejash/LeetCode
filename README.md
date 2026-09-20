@@ -194,6 +194,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatejash/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/adityatejash/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/adityatejash/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/adityatejash/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityatejash/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/adityatejash/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityatejash/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/adityatejash/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3899-angles-of-a-triangle](https://github.com/adityatejash/LeetCode/tree/master/3899-angles-of-a-triangle) |
 ## Hash Table
 |  |
