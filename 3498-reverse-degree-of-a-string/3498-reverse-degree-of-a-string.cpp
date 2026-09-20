@@ -1,14 +1,19 @@
 class Solution {
 public:
+    int reverseInt (char ch) {
+        int c = ch - 'a';
+
+        return 26 - c;
+    }
     int reverseDegree(string s) {
-        int sum = 0;
+        int ans = 0;
 
         for (int i=0; i<s.size(); i++) {
-            int revInd = 27 - (s[i] - 'a' + 1);
+            int ind = i+1;
 
-            sum += revInd * (i + 1);
+            ans += ind *  reverseInt (s[i]);
         }
 
-        return sum;
+        return ans;
     }
 };
