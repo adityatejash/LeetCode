@@ -33,6 +33,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityatejash/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adityatejash/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1734-decode-xored-permutation](https://github.com/adityatejash/LeetCode/tree/master/1734-decode-xored-permutation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatejash/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityatejash/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityatejash/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
@@ -93,6 +94,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/adityatejash/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityatejash/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityatejash/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatejash/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityatejash/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -235,6 +237,7 @@
 | [1138-alphabet-board-path](https://github.com/adityatejash/LeetCode/tree/master/1138-alphabet-board-path) |
 | [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatejash/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/adityatejash/LeetCode/tree/master/2325-decode-the-message) |
 | [2408-design-sql](https://github.com/adityatejash/LeetCode/tree/master/2408-design-sql) |
