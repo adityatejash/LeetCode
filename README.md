@@ -142,6 +142,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/adityatejash/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityatejash/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/adityatejash/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/adityatejash/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -423,12 +424,14 @@
 | [0257-binary-tree-paths](https://github.com/adityatejash/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityatejash/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/adityatejash/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/adityatejash/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityatejash/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityatejash/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/adityatejash/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -518,4 +521,8 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatejash/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/adityatejash/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
