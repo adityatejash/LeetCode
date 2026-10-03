@@ -84,6 +84,7 @@
 | [17-letter-combinations-of-a-phone-number](https://github.com/adityatejash/LeetCode/tree/master/17-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/adityatejash/LeetCode/tree/master/0115-distinct-subsequences) |
 | [165-compare-version-numbers](https://github.com/adityatejash/LeetCode/tree/master/165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/adityatejash/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [150-evaluate-reverse-polish-notation](https://github.com/adityatejash/LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [496-next-greater-element-i](https://github.com/adityatejash/LeetCode/tree/master/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/adityatejash/LeetCode/tree/master/503-next-greater-element-ii) |
@@ -280,6 +282,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/adityatejash/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/adityatejash/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0397-integer-replacement](https://github.com/adityatejash/LeetCode/tree/master/0397-integer-replacement) |
@@ -528,6 +531,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatejash/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
