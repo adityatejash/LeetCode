@@ -92,6 +92,7 @@
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/adityatejash/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/adityatejash/LeetCode/tree/master/0415-add-strings) |
 | [874-backspace-string-compare](https://github.com/adityatejash/LeetCode/tree/master/874-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/adityatejash/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatejash/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -191,6 +192,7 @@
 | [0292-nim-game](https://github.com/adityatejash/LeetCode/tree/master/0292-nim-game) |
 | [343-integer-break](https://github.com/adityatejash/LeetCode/tree/master/343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/adityatejash/LeetCode/tree/master/0415-add-strings) |
 | [476-number-complement](https://github.com/adityatejash/LeetCode/tree/master/476-number-complement) |
 | [0479-largest-palindrome-product](https://github.com/adityatejash/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
@@ -355,6 +357,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/adityatejash/LeetCode/tree/master/0415-add-strings) |
 | [0874-walking-robot-simulation](https://github.com/adityatejash/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/adityatejash/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityatejash/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
