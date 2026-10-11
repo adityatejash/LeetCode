@@ -52,6 +52,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityatejash/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/adityatejash/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/adityatejash/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityatejash/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/adityatejash/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityatejash/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityatejash/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -374,6 +375,7 @@
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/adityatejash/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/adityatejash/LeetCode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityatejash/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityatejash/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityatejash/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
