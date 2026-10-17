@@ -11,7 +11,7 @@ public:
         return sum;
     }
 
-    int minSwap(vector<int>& a, vector<int>& b) {
+    int minSwap(const vector<int>& a, vector<int>& b) {
         int n = a.size();
         int swaps = 0;
 
@@ -37,13 +37,10 @@ public:
     }
 
     int minSwaps(vector<int>& nums) {
-        unordered_map<int, int> m;
-
+        vector<pair<int, int>> v;
         for (int n : nums) {
-            m[n] = digitSum(n);
+            v.push_back({n, digitSum(n)});
         }
-
-        vector<pair<int, int>> v(m.begin(), m.end());
 
         sort(v.begin(), v.end(), [](auto& a, auto& b){
             if (a.second == b.second) {
@@ -53,8 +50,8 @@ public:
         });
 
         vector<int> ans;
-        for (int i=0; i<v.size(); i++) {
-            ans.push_back(v[i].first);
+        for (auto& a : v) {
+            ans.push_back(a.first);
         }
 
         return minSwap (nums, ans);
