@@ -18,6 +18,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/adityatejash/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [645-set-mismatch](https://github.com/adityatejash/LeetCode/tree/master/645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityatejash/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0817-linked-list-components](https://github.com/adityatejash/LeetCode/tree/master/0817-linked-list-components) |
 | [0874-walking-robot-simulation](https://github.com/adityatejash/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/adityatejash/LeetCode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -139,6 +140,7 @@
 | [206-reverse-linked-list](https://github.com/adityatejash/LeetCode/tree/master/206-reverse-linked-list) |
 | [237-delete-node-in-a-linked-list](https://github.com/adityatejash/LeetCode/tree/master/237-delete-node-in-a-linked-list) |
 | [328-odd-even-linked-list](https://github.com/adityatejash/LeetCode/tree/master/328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/adityatejash/LeetCode/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/adityatejash/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/adityatejash/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/adityatejash/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -256,6 +258,7 @@
 | [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityatejash/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0817-linked-list-components](https://github.com/adityatejash/LeetCode/tree/master/0817-linked-list-components) |
 | [0874-walking-robot-simulation](https://github.com/adityatejash/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1138-alphabet-board-path](https://github.com/adityatejash/LeetCode/tree/master/1138-alphabet-board-path) |
