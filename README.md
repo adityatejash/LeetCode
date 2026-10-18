@@ -74,6 +74,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityatejash/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityatejash/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityatejash/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityatejash/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adityatejash/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -326,6 +327,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityatejash/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityatejash/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityatejash/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityatejash/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityatejash/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -399,6 +401,7 @@
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityatejash/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityatejash/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityatejash/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
