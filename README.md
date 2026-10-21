@@ -101,6 +101,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/adityatejash/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/adityatejash/LeetCode/tree/master/0415-add-strings) |
 | [874-backspace-string-compare](https://github.com/adityatejash/LeetCode/tree/master/874-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatejash/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/adityatejash/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatejash/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -166,6 +167,7 @@
 | [150-evaluate-reverse-polish-notation](https://github.com/adityatejash/LeetCode/tree/master/150-evaluate-reverse-polish-notation) |
 | [496-next-greater-element-i](https://github.com/adityatejash/LeetCode/tree/master/496-next-greater-element-i) |
 | [503-next-greater-element-ii](https://github.com/adityatejash/LeetCode/tree/master/503-next-greater-element-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatejash/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [983-validate-stack-sequences](https://github.com/adityatejash/LeetCode/tree/master/983-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatejash/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -400,6 +402,7 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/adityatejash/LeetCode/tree/master/0397-integer-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatejash/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatejash/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
@@ -561,6 +564,7 @@
 | [0020-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityatejash/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatejash/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityatejash/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
