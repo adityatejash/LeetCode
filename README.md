@@ -131,6 +131,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityatejash/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityatejash/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityatejash/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/adityatejash/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3853-merge-close-characters](https://github.com/adityatejash/LeetCode/tree/master/3853-merge-close-characters) |
 | [4177-reverse-string-prefix](https://github.com/adityatejash/LeetCode/tree/master/4177-reverse-string-prefix) |
@@ -241,6 +242,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityatejash/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityatejash/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityatejash/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/adityatejash/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityatejash/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -348,6 +350,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/adityatejash/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/adityatejash/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/adityatejash/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adityatejash/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Database
@@ -380,6 +383,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityatejash/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adityatejash/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityatejash/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/adityatejash/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
 | ------- |
