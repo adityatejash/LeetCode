@@ -355,6 +355,7 @@
 | ------- |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adityatejash/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1211-queries-quality-and-percentage](https://github.com/adityatejash/LeetCode/tree/master/1211-queries-quality-and-percentage) |
+| [1729-find-followers-count](https://github.com/adityatejash/LeetCode/tree/master/1729-find-followers-count) |
 ## Counting
 |  |
 | ------- |
