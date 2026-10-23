@@ -73,6 +73,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityatejash/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityatejash/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityatejash/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/adityatejash/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityatejash/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityatejash/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -376,6 +377,7 @@
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/adityatejash/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityatejash/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/adityatejash/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityatejash/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
