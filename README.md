@@ -121,6 +121,7 @@
 | [2197-decode-the-slanted-ciphertext](https://github.com/adityatejash/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2325-decode-the-message](https://github.com/adityatejash/LeetCode/tree/master/2325-decode-the-message) |
 | [2408-design-sql](https://github.com/adityatejash/LeetCode/tree/master/2408-design-sql) |
+| [2409-count-days-spent-together](https://github.com/adityatejash/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/adityatejash/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2470-removing-stars-from-a-string](https://github.com/adityatejash/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adityatejash/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -229,6 +230,7 @@
 | [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatejash/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/adityatejash/LeetCode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/adityatejash/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/adityatejash/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/adityatejash/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/adityatejash/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
