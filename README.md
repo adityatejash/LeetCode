@@ -7,6 +7,7 @@
 | [0064-minimum-path-sum](https://github.com/adityatejash/LeetCode/tree/master/0064-minimum-path-sum) |
 | [75-sort-colors](https://github.com/adityatejash/LeetCode/tree/master/75-sort-colors) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityatejash/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/adityatejash/LeetCode/tree/master/0162-find-peak-element) |
 | [164-maximum-gap](https://github.com/adityatejash/LeetCode/tree/master/164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/adityatejash/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adityatejash/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/adityatejash/LeetCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/adityatejash/LeetCode/tree/master/0278-first-bad-version) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityatejash/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityatejash/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
