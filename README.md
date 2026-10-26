@@ -22,6 +22,7 @@
 | [0817-linked-list-components](https://github.com/adityatejash/LeetCode/tree/master/0817-linked-list-components) |
 | [0874-walking-robot-simulation](https://github.com/adityatejash/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/adityatejash/LeetCode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1200-minimum-absolute-difference](https://github.com/adityatejash/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/adityatejash/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityatejash/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/adityatejash/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adityatejash/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -470,6 +472,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityatejash/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
@@ -511,10 +514,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityatejash/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
@@ -597,5 +602,14 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityatejash/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
