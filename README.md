@@ -112,6 +112,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/adityatejash/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityatejash/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1496-path-crossing](https://github.com/adityatejash/LeetCode/tree/master/1496-path-crossing) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatejash/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityatejash/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adityatejash/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -275,6 +276,7 @@
 | [1138-alphabet-board-path](https://github.com/adityatejash/LeetCode/tree/master/1138-alphabet-board-path) |
 | [1331-rank-transform-of-an-array](https://github.com/adityatejash/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1496-path-crossing](https://github.com/adityatejash/LeetCode/tree/master/1496-path-crossing) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatejash/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/adityatejash/LeetCode/tree/master/2325-decode-the-message) |
