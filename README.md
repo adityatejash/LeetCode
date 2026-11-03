@@ -41,6 +41,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityatejash/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adityatejash/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
+| [1920-build-array-from-permutation](https://github.com/adityatejash/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/adityatejash/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityatejash/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1972-rotating-the-box](https://github.com/adityatejash/LeetCode/tree/master/1972-rotating-the-box) |
@@ -403,6 +404,7 @@
 | [0415-add-strings](https://github.com/adityatejash/LeetCode/tree/master/0415-add-strings) |
 | [0874-walking-robot-simulation](https://github.com/adityatejash/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/adityatejash/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/adityatejash/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityatejash/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/adityatejash/LeetCode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityatejash/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
