@@ -18,6 +18,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityatejash/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/adityatejash/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/adityatejash/LeetCode/tree/master/0494-target-sum) |
+| [0561-array-partition](https://github.com/adityatejash/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityatejash/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [645-set-mismatch](https://github.com/adityatejash/LeetCode/tree/master/645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityatejash/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityatejash/LeetCode/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityatejash/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/adityatejash/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityatejash/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/adityatejash/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -434,6 +436,7 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/adityatejash/LeetCode/tree/master/0397-integer-replacement) |
+| [0561-array-partition](https://github.com/adityatejash/LeetCode/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityatejash/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/adityatejash/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityatejash/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -541,6 +544,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/adityatejash/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/adityatejash/LeetCode/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityatejash/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
