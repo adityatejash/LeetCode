@@ -74,6 +74,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityatejash/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityatejash/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/adityatejash/LeetCode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adityatejash/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/adityatejash/LeetCode/tree/master/3379-transformed-array) |
 | [3386-button-with-longest-push-time](https://github.com/adityatejash/LeetCode/tree/master/3386-button-with-longest-push-time) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityatejash/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -480,6 +481,7 @@
 | [0238-product-of-array-except-self](https://github.com/adityatejash/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityatejash/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adityatejash/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/adityatejash/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityatejash/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityatejash/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -502,6 +504,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityatejash/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityatejash/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityatejash/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adityatejash/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
