@@ -40,6 +40,7 @@
 | [1390-four-divisors](https://github.com/adityatejash/LeetCode/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityatejash/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityatejash/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adityatejash/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1734-decode-xored-permutation](https://github.com/adityatejash/LeetCode/tree/master/1734-decode-xored-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityatejash/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -244,6 +245,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityatejash/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/adityatejash/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/adityatejash/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityatejash/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityatejash/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
@@ -343,6 +345,7 @@
 | [0509-fibonacci-number](https://github.com/adityatejash/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/adityatejash/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/adityatejash/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityatejash/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityatejash/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/adityatejash/LeetCode/tree/master/2501-longest-square-streak-in-an-array) |
@@ -481,6 +484,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityatejash/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityatejash/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityatejash/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/adityatejash/LeetCode/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityatejash/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
