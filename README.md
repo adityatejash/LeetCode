@@ -78,6 +78,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/adityatejash/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/adityatejash/LeetCode/tree/master/3379-transformed-array) |
 | [3386-button-with-longest-push-time](https://github.com/adityatejash/LeetCode/tree/master/3386-button-with-longest-push-time) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityatejash/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityatejash/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityatejash/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/adityatejash/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -264,6 +265,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityatejash/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/adityatejash/LeetCode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityatejash/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityatejash/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityatejash/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityatejash/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityatejash/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -452,6 +454,7 @@
 | [2843-count-symmetric-integers](https://github.com/adityatejash/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityatejash/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityatejash/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityatejash/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityatejash/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityatejash/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
@@ -519,6 +522,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityatejash/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityatejash/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityatejash/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityatejash/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -546,6 +550,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/adityatejash/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1492-the-kth-factor-of-n](https://github.com/adityatejash/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityatejash/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityatejash/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityatejash/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityatejash/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
