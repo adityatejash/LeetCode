@@ -135,6 +135,7 @@
 | [1927-sum-game](https://github.com/adityatejash/LeetCode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityatejash/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityatejash/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityatejash/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/adityatejash/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/adityatejash/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adityatejash/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
